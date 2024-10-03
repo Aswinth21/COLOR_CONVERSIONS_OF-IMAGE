@@ -61,8 +61,8 @@ Anaconda - Python 3.7
 
 
 ## Program:
-### Developed By: Pradeepraj P
-### Register Number: 212222240073 
+### Developed By: ASWINTH T
+### Register Number: 212222230015 
 
 ### i)Read and Display an Image
 ```
